@@ -19,7 +19,7 @@ Challenge to replicate a card layout.
 
 ### Links
 
-- Solution URL: [https://github.com/OneManBanned/QR-Challenge](https://github.com/OneManBanned/QR-Challenge)
+- Solution URL: [https://onemanbanned.github.io/QR-Challenge/](https://onemanbanned.github.io/QR-Challenge/)
 
 ## My process
     I started with the HTML. Creating a div to act as my flexbox container.
